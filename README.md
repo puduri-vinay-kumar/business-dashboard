@@ -1,4 +1,5 @@
-# 📊 Mini Local Business Dashboard
+# 📊 Mini Local Business Dashboard 
+🚀 **Live Demo:** [View Deployed App](https://business-dashboard-frontend-five.vercel.app/)
 
 A mini dashboard that simulates how local businesses might view their SEO content and Google Business data.
 This project demonstrates **frontend-backend integration, API communication, and responsive UI design** using **React, Tailwind CSS, Node.js, and Express.**
